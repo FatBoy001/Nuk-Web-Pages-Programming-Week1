@@ -1,2 +1,2 @@
-# NukIM-Week1
+# NukIM-Web Pages Programming-Week1
 # The homework from course
